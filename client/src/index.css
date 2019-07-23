@@ -19,8 +19,8 @@ body {
 }
 
 a.movie-card {
-background-color:  #f2f2f2;
-box-shadow: none;
+  background-color: #f2f2f2;
+  box-shadow: none;
 }
 .movie-director {
   padding: 4px 0;
@@ -77,4 +77,3 @@ box-shadow: none;
   padding: 5px 10px;
   background-color: lightskyblue;
 }
-
